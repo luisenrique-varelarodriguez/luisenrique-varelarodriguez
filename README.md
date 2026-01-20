@@ -45,8 +45,3 @@ I care about understanding systems deeply, not just making them work.
 ![Go](https://img.shields.io/badge/Go-333?style=flat&logo=go)
 ![C](https://img.shields.io/badge/C-333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-333?style=flat&logo=cplusplus)
-
----
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/luis-enrique-varela-rodriguez
