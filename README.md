@@ -17,7 +17,7 @@ I'm interested in understanding systems well, not just making them "work".
 ---
 
 ## 📊 GitHub
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luisenrique-varelarodriguez&show_icons=true&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luisenrique-varelarodriguez&show_icons=true&include_all_commits=true)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisenrique-varelarodriguez&layout=compact)
 
