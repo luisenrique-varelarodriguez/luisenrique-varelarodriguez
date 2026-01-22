@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luis Enrique
 
-**Site Reliability Engineer | DevOps | Cloud | Software Engineer**
+**Software Engineering Specialist | SRE | DevOps | Platform Engineer**
 
 📍 Madrid
 💼 Telefónica España
@@ -9,8 +9,7 @@
 ---
 
 ## About me
-SRE focused on reliability, automation and infrastructure.
-Working daily with Kubernetes, Terraform, Puppet, Ansible, Helm, CI/CD and cloud.
+Software Engineering Specialist with a background in SRE and QA Automation, focused on reliability, automation and infrastructure.
 I care about understanding systems deeply, not just making them work.
 
 ---
