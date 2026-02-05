@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luis Enrique
 
-**Software Engineering Specialist | SRE | DevOps | Platform Engineer**
+**Software Engineering Expert | SRE | DevOps | Platform Engineer**
 
 📍 Madrid
 💼 Telefónica España
@@ -9,7 +9,7 @@
 ---
 
 ## About me
-Software Engineering Specialist with a background in SRE and QA Automation, focused on reliability, automation and infrastructure.
+Software Engineering Expert with background in SRE and QA Automation, focused on reliability, automation and infrastructure.
 I care about understanding systems deeply, not just making them work.
 
 ---
